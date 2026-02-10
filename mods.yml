@@ -1,0 +1,393 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770649754763
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2304
+  enabled: true
+- manifestVersion: 1
+  name: toored-Chinese_Translation
+  authorName: toored
+  websiteUrl: https://thunderstore.io/c/repo/p/toored/Chinese_Translation/
+  displayName: Chinese_Translation
+  description: 最新版本的REPO简体中文汉化包，包含70多个常用MOD翻译，让你的游戏再也没有令人费解的英文
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770649754846
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 8
+  enabled: true
+- manifestVersion: 1
+  name: upgame-AthleteStamina
+  authorName: upgame
+  websiteUrl: https://thunderstore.io/c/repo/p/upgame/AthleteStamina/
+  displayName: AthleteStamina
+  description: More realistic endurance consumption.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770650185128
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: linkoid-RoboUnion
+  authorName: linkoid
+  websiteUrl: https://thunderstore.io/c/repo/p/linkoid/RoboUnion/
+  displayName: RoboUnion
+  description: >-
+    [MorePlayers] Allows more players to play at once by providing options for
+    adjusting the maximum number of players in a room.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770650234114
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: MountainFarmer-Medic
+  authorName: MountainFarmer
+  websiteUrl: https://thunderstore.io/c/repo/p/MountainFarmer/Medic/
+  displayName: Medic
+  description: >-
+    [Inspired by: UltimateRevive by Quilt] Pick up your teammate’s
+    PlayerDeathHead and press H—spend 20 HP to revive them. Players will
+    automatically show gratitude upon revive with a configurable message.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770650320374
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+- manifestVersion: 1
+  name: MrBytesized-BetterTeamUpgrades
+  authorName: MrBytesized
+  websiteUrl: https://thunderstore.io/c/repo/p/MrBytesized/BetterTeamUpgrades/
+  displayName: BetterTeamUpgrades
+  description: >-
+    A host-only, better alternative to shared upgrade mods like SharedUpgrades
+    or TeamUpgrades. This mod implements a robust and maintainable shared
+    upgrade system supporting vanilla and modded upgrades, plus late join
+    upgrade syncing.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770650512690
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: DarkSpider-TextUpgradesUIScale
+  authorName: DarkSpider
+  websiteUrl: https://thunderstore.io/c/repo/p/DarkSpider/TextUpgradesUIScale/
+  displayName: TextUpgradesUIScale
+  description: The mod fixes the issue where the upgrade list goes beyond the screen
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651174600
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: BULLETBOT-KeybindLib
+  authorName: BULLETBOT
+  websiteUrl: https://thunderstore.io/c/repo/p/BULLETBOT/KeybindLib/
+  displayName: KeybindLib
+  description: A library that lets you add your own keybinds to the controls.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651174638
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+- manifestVersion: 1
+  name: Zehs-REPOLib
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/repo/p/Zehs/REPOLib/
+  displayName: REPOLib
+  description: Library for adding content to R.E.P.O.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651174681
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 0
+    patch: 3
+  enabled: true
+- manifestVersion: 1
+  name: BULLETBOT-MoreUpgrades
+  authorName: BULLETBOT
+  websiteUrl: https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/
+  displayName: MoreUpgrades
+  description: Adds more unique upgrade items and is highly configurable.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651174734
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-3.0.0
+    - BULLETBOT-KeybindLib-1.0.1
+    - DarkSpider-TextUpgradesUIScale-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 5
+  enabled: true
+- manifestVersion: 1
+  name: nickklmao-MenuLib
+  authorName: nickklmao
+  websiteUrl: https://thunderstore.io/c/repo/p/nickklmao/MenuLib/
+  displayName: MenuLib
+  description: A library for creating UI!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651202865
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 5
+    patch: 1
+  enabled: true
+- manifestVersion: 1
+  name: YMC_MHZ-MoreHead
+  authorName: YMC_MHZ
+  websiteUrl: https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/
+  displayName: MoreHead
+  description: Customizable cosmetics. 简单好玩的装饰模组，提供unitypackage，供玩家自行导入模型。
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651202940
+  loaders: []
+  dependencies:
+    - nickklmao-MenuLib-2.5.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 4
+  enabled: true
+- manifestVersion: 1
+  name: Zehs-ExtractionPointConfirmButton
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/repo/p/Zehs/ExtractionPointConfirmButton/
+  displayName: ExtractionPointConfirmButton
+  description: Adds a confirm button to extraction points.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651257719
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+    - Zehs-REPOLib-3.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: AriIcedT-MinecraftStrongholdLevel
+  authorName: AriIcedT
+  websiteUrl: https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/
+  displayName: MinecraftStrongholdLevel
+  description: minecraft stronghold map with custom features, still in beta.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651313961
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-3.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 13
+    patch: 1
+  enabled: true
+- manifestVersion: 1
+  name: Magic_Wesley-Wesleys_Levels
+  authorName: Magic_Wesley
+  websiteUrl: https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/
+  displayName: Wesleys_Levels
+  description: Adds a new level
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651419879
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-3.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 11
+  enabled: true
+- manifestVersion: 1
+  name: Tolian-Tolian_Levels
+  authorName: Tolian
+  websiteUrl: https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/
+  displayName: Tolian_Levels
+  description: adds new levels a game. by tolian!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651433723
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-3.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 4
+  enabled: true
+- manifestVersion: 1
+  name: Rogue-Backrooms
+  authorName: Rogue
+  websiteUrl: https://thunderstore.io/c/repo/p/Rogue/Backrooms/
+  displayName: Backrooms
+  description: Adds the backrooms to REPO with custom valuables!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770651478075
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+    - Zehs-REPOLib-3.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 6
+  enabled: true
+- manifestVersion: 1
+  name: Sylhaance-SylhShrinkerCartPlus
+  authorName: Sylhaance
+  websiteUrl: https://thunderstore.io/c/repo/p/Sylhaance/SylhShrinkerCartPlus/
+  displayName: SylhShrinkerCartPlus
+  description: >-
+    Makes your cart feel roomier by shrinking junk like magic. Marie Kondo would
+    be proud. (inspired by the mod ShrinkerCart by Oksamies)
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770710456378
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 4
+    patch: 5
+  enabled: true

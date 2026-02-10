@@ -1,0 +1,11 @@
+{
+    "name": "Backrooms",
+    "version_number": "1.1.6",
+    "website_url": "",
+	"donationLink": "https://Ko-fi.com/r0gue",
+    "description": "Adds the backrooms to REPO with custom valuables!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2304",
+        "Zehs-REPOLib-3.0.2"
+    ]
+}
