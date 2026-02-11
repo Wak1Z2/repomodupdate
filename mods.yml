@@ -391,3 +391,48 @@
     minor: 4
     patch: 5
   enabled: true
+- manifestVersion: 1
+  name: kr_zhou-BetterSharedHealthPacks
+  authorName: kr_zhou
+  websiteUrl: https://thunderstore.io/c/repo/p/kr_zhou/BetterSharedHealthPacks/
+  displayName: BetterSharedHealthPacks
+  description: No need to break medical items, just use and the whole team will recover
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770798899683
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2304
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+- manifestVersion: 1
+  name: OrtonLongGaming-FNAFLevel
+  authorName: OrtonLongGaming
+  websiteUrl: https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/
+  displayName: FNAFLevel
+  description: >-
+    Freddy Fazbear's Pizza, where Fantasy meets Fun! - NOW UPDATED for Monster
+    Update!
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1770799150288
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-3.0.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true

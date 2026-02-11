@@ -1,0 +1,11 @@
+{
+  "namespace": "BetterSharedHealthPacks",
+  "name": "BetterSharedHealthPacks",
+  "description": "No need to break medical items, just use and the whole team will recover",
+  "version_number": "1.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2304"
+  ],
+  "website_url": "",
+  "FullName": "com.repo.kr.BetterSharedHealthPacks"
+}
