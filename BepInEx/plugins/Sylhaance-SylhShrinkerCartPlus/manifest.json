@@ -1,9 +1,0 @@
-{
-  "name": "SylhShrinkerCartPlus",
-  "version_number": "0.4.5",
-  "website_url": "https://github.com/Voydahn/SylhShrinkerCartPlus.git",
-  "description": "Makes your cart feel roomier by shrinking junk like magic. Marie Kondo would be proud. (inspired by the mod ShrinkerCart by Oksamies)",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2304"
-  ]
-}

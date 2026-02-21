@@ -1,9 +1,0 @@
-{
-  "name": "MinecraftStrongholdLevel",
-  "description": "minecraft stronghold map with custom features, still in beta.",
-  "version_number": "1.13.1",
-  "dependencies": [
-    "Zehs-REPOLib-3.0.2"
-  ],
-  "website_url": ""
-}

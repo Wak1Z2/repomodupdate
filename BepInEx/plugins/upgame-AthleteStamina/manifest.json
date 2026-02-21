@@ -1,7 +1,0 @@
-{
-  "name": "AthleteStamina",
-  "version_number": "1.0.0",
-  "website_url": "",
-  "description": "More realistic endurance consumption.",
-  "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
-}

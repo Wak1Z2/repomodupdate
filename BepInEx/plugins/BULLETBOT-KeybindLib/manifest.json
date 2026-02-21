@@ -1,7 +1,0 @@
-{
-  "name": "KeybindLib",
-  "version_number": "1.0.4",
-  "website_url": "",
-  "description": "A library that lets you add your own keybinds to the controls.",
-  "dependencies": []
-}

@@ -1,7 +1,0 @@
-{
-  "name": "MoreUpgrades",
-  "version_number": "1.6.5",
-  "website_url": "https://github.com/BULL3TB0T/REPO-MoreUpgrades",
-  "description": "Adds more unique upgrade items and is highly configurable.",
-  "dependencies": [ "Zehs-REPOLib-3.0.0", "BULLETBOT-KeybindLib-1.0.1", "DarkSpider-TextUpgradesUIScale-1.0.0" ]
-}
