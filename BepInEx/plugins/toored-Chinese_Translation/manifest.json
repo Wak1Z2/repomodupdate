@@ -1,0 +1,9 @@
+{
+    "name": "Chinese_Translation",
+    "version_number": "0.2.8",
+    "website_url": "https://github.com/TooRed2025/R.E.P.O.-CTZH-Report/issues",
+    "description": "最新版本的REPO简体中文汉化包，包含70多个常用MOD翻译，让你的游戏再也没有令人费解的英文",
+    "dependencies": [
+	"BepInEx-BepInExPack-5.4.2304"
+    ]
+}
